@@ -3,6 +3,7 @@ Welcome to the Advaita Labs repo.
 
 # Who are we
 
-🙋‍♀️ Advaita Labs are co-founded by Akasha & Jialin Li in Singapore, in 2022. Now we have around 10 researchers and engineers get involved, 2-3 PHDs and 3-4 undergraduates, and 1 key architect from the crypto industry.
+🙋‍♀️ Advaita Labs is co-founded by Akasha & Jialin Li.  Since the end of 2020, we have been focusing on the research of the trust-minimization over communication networks. 
 
-We are focused on the research on the next generation of decentralized communication networks, which we have started the ideas since 2020.
+Our goal is to research, create and build public protocols which could balance the frequency and consistency of conflicting problems lying in current communication systems. To solve this communication problem between nodes, we are enduring open research on logic-clock, BFT, and other topics of distributed systems. 
+
