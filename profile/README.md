@@ -10,7 +10,7 @@ turning open systems research into infrastructure that no single party controls.
 <br/>
 
 [![Website](https://img.shields.io/badge/Website-advaita.xyz-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.advaita.xyz/)
-[![Network](https://img.shields.io/badge/Network-Hetu-4c3bcf?style=for-the-badge)](https://hetu.org)
+[![X](https://img.shields.io/badge/Follow-@advaita__labs-1a1a2e?style=for-the-badge&logo=x&logoColor=white)](https://x.com/advaita_labs)
 [![Research](https://img.shields.io/badge/Research-Read_our_papers-6c5ce7?style=for-the-badge&logo=readthedocs&logoColor=white)](#-selected-research)
 
 </div>
@@ -27,7 +27,7 @@ Today we direct that research toward one mission: a **decentralized network for 
 
 ## 🧭 What we're building
 
-- **Hetu** — a decentralized AI4Science network providing incentives, governance, community, and subnets, designed to stay trust-minimized and censorship-resistant end to end.
+- **A decentralized AI4Science network** — coordinating compute, models, and scientific contribution without a trusted intermediary.
 - **Open systems infrastructure** — verifiable logical clocks, BFT ordering, and P2P coordination primitives that any contributor can run.
 - **AI-native systems** — efficient tuning and serving of large models, moving compute from cloud-native toward AI-native and end-side.
 
@@ -52,7 +52,7 @@ Today we direct that research toward one mission: a **decentralized network for 
 ## 🌐 Connect
 
 - **Website** — [advaita.xyz](https://www.advaita.xyz/)
-- **Network** — [hetu.org](https://hetu.org)
+- **X** — [@advaita_labs](https://x.com/advaita_labs)
 
 <div align="center">
 <br/>
