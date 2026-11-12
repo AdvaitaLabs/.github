@@ -1,80 +1,152 @@
 <div align="center">
 
-# Advaita Labs
+# Advaita Lab
 
-### The frontier laboratory for AI4Science
+### Recursive Foundation Model for Life Science
 
-Open protocols for a **trust-minimized, decentralized network** —
-turning open systems research into infrastructure that no single party controls.
+We are developing scientist-level intelligence through research systems designed to improve<br>models, methods and decisions through computational and experimental feedback.
 
-<br/>
-
-[![Website](https://img.shields.io/badge/Website-advaita.xyz-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.advaita.xyz/)
-[![X](https://img.shields.io/badge/Follow-@advaita__labs-1a1a2e?style=for-the-badge&logo=x&logoColor=white)](https://x.com/advaita_labs)
-[![Research](https://img.shields.io/badge/Research-Read_our_papers-6c5ce7?style=for-the-badge&logo=readthedocs&logoColor=white)](#-selected-research)
+[System](#system) · [Products](#products) · [Applications](#applications) · [Research & Methods](#research--methods) · [Team Research](#team-research) · [Repository Map](#repository-map)
 
 </div>
 
 ---
 
-## 🔭 Mission
+## Mission
 
-A decentralized network for **AI4Science** — where **compute, models, and scientific contribution** are coordinated without anyone having to be trusted by default.
+**Regenerate life.**<br>
+**Make longevity possible.**<br>
+**For everyone.**
 
-## 👋 Who we are
+### Vision
 
-**Advaita Labs** is co-founded by **Akasha** and **Jialin Li**. Since 2020 we have pursued open research on **trust-minimization** in decentralized networks — public protocols that hold **consistency and liveness** together where existing systems are forced to trade one for the other.
+We envision an enduring institution that develops scientist-level intelligence, enabling every pipeline to compound in value, whoever owns it and wherever it runs.
 
-Our work sits at the hard center of coordinating untrusted nodes: **verifiable logical clocks, Byzantine fault tolerance, and verifiable causality.** We treat these protocols as a commons — built for the contributors who run them, not gated behind a trusted intermediary.
+### Values
 
-## 🧭 What we're building
+Create without waiting<br>
+Verify without ambiguity<br>
+Recurse without stopping
 
-- **A decentralized AI4Science network** — coordinating compute, models, and scientific contribution without a trusted intermediary.
-- **Open systems infrastructure** — verifiable logical clocks, BFT ordering, and P2P coordination primitives that any contributor can run.
-- **AI-native systems** — efficient tuning and serving of large models, moving compute from cloud-native toward AI-native and end-side.
+## System
 
-## 🧬 Where we point it — AI4Science
+**Better science builds better models. Better models advance the next discovery.**
 
-We direct this trust-minimized network toward scientific discovery itself:
+Our architecture connects research, design, biological modeling and experimental validation. Aegis supports research and decisions across Targa, Molia, Cyta and Vitra.
 
-- **Biological world models** — modeling living systems through causality rather than correlation, from genes, targets and pathways to disease — so the discovery step itself gets more accurate.
-- **Capability orchestration** — rather than betting on a single model, we orchestrate distinct capabilities (mathematics, code, reasoning, decision-making) to carry out concrete research tasks. Model-agnostic, always at the capability frontier.
-- **Closed-loop science** — candidates are first run and filtered *in silico*; only the highest-conviction ones advance to real experiments, whose results flow back as structured data so the network gets sharper every cycle.
+The system is designed around two feedback paths: Cyta to Molia for computational feedback, and Vitra through Research Memory to Aegis for experimental feedback. Each cycle is intended to improve models, methods and subsequent research decisions.
 
-> The direction: moving scientific discovery from *hypothesis-driven* toward *model-driven* — with every step coordinated on open protocols that the community can run.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/system-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/system-light.svg">
+  <img src="./assets/system-dark.svg" alt="System architecture: Aegis supports research and decisions across Targa, Molia, Cyta and Vitra. Computational feedback runs from Cyta to Molia; experimental feedback runs from Vitra through Research Memory to Aegis." width="100%">
+</picture>
 
-## 🧱 How we work
+## Products
 
-- **Open by default** — results live in the open, from peer-reviewed venues to public protocols.
-- **Trust-minimized** — every design minimizes dependence on any single trusted party. Not trustless — trust-*minimized*.
-- **P2P & end-side** — censorship-resistant and privacy-preserving, runnable by anyone, with data that need not leave the device.
-- **Contributors, not users** — the network is a shared field, owned by the people who build and run it.
+[Aegis](#aegis) · [Targa](#targa) · [Molia](#molia) · [Cyta](#cyta) · [Vitra](#vitra)
 
-## 📚 Selected research
+### Aegis
 
-| Year | Paper | Venue |
-|:----:|-------|-------|
-| 2026 | [RL over Commodity Networks: Overcoming the Bandwidth Barrier with Lossless Sparse Deltas](https://arxiv.org/abs/2602.11456) | arXiv |
-| 2025 | [Resource Multiplexing in Tuning and Serving Large Language Models](https://www.usenix.org/system/files/atc25-he-yongjun.pdf) | USENIX ATC '25 |
-| 2024 | [Building a Verifiable Logical Clock for P2P Networks (Chrono)](https://arxiv.org/pdf/2405.13349) | arXiv |
-| 2023 | [Chrono: A Peer-to-Peer Network with Verifiable Causality](https://arxiv.org/pdf/2310.08373) | arXiv |
-| 2023 | [NeoBFT: Accelerating Byzantine Fault Tolerance Using Authenticated In-Network Ordering](https://dl.acm.org/doi/pdf/10.1145/3603269.3604874) | ACM SIGCOMM '23 |
-| 2023 | [Computing in the Era of Large Generative Models: From Cloud-Native to AI-Native](https://yao.lu/ai_native.pdf) | Technical Report |
-| 2016 | [Just Say NO to Paxos Overhead: Replacing Consensus with Network Ordering](https://www.comp.nus.edu.sg/~lijl/papers/nopaxos-osdi16.pdf) | USENIX OSDI '16 |
+*Research & Decisions*
 
-## 🤝 Get involved
+Investigate scientific questions across literature, databases, patents and clinical-trial records. Organize findings and cited sources into research reports.
 
-We build in the open. Read the papers, explore the protocols, and run a node — the network is owned by the people who build it.
+> Research question → Source retrieval → Cited report
 
-- 📖 Start with our research above, or the [Chrono](https://arxiv.org/pdf/2310.08373) protocol.
-- 💬 Reach out on [X](https://x.com/advaita_labs) or open an issue.
+### Targa
 
-## 🌐 Connect
+*Target Preparation*
 
-- **Website** — [advaita.xyz](https://www.advaita.xyz/)
-- **X** — [@advaita_labs](https://x.com/advaita_labs)
+Organize target identity, receptor preparation and binding-pocket definition. Preserve the structures, settings and source records used by downstream calculations.
 
-<div align="center">
-<br/>
-<sub>Open protocols · Verifiable systems · Built in the open</sub>
-</div>
+> Target → Prepared receptor → Defined pocket
+
+### Molia
+
+*Molecular Design*
+
+Screen compound libraries or generate candidates under defined structural constraints. Integrated workflows include PocketXMol and AutoFragDiff, with structure checks, scoring and saved molecular outputs.
+
+> Library or design constraints → Candidates → Quality checks → Scores and records
+
+[Molecular-design methods: Omea](https://github.com/AdvaitaLabs/Omea)
+
+### Cyta
+
+*Biological Modeling*
+
+Develop task-specific workflows for target interactions and biological responses. The framework covers exposure, binding and cell or tissue response; current work focuses on binding evaluation and early cell-response workflow tests.
+
+> Molecule and biological context → Selected model → Computational evaluation
+
+### Vitra
+
+*Experimental Validation*
+
+Design the handoff from computational candidates to laboratory studies. Define experimental endpoints, controls, quality checks and the return of reviewed results to Research Memory for subsequent research and design decisions.
+
+> Candidates → Experimental design → Result review → Research Memory
+
+## Applications
+
+Molecular discovery and cellular modeling are our initial applications.
+
+### Small-Molecule Discovery
+
+Targa supplies receptor and pocket inputs. Molia produces candidates through library screening or constrained generation. Cyta provides computational evaluation for selection and redesign in Molia. Vitra defines laboratory studies and how reviewed results return through Research Memory to Aegis.
+
+Aegis supports research and decisions throughout. Cell-response modeling and organoid studies are optional extensions in the workflow design.
+
+### Cellular Modeling
+
+Cyta develops task-specific models of cellular response. Current research includes CRISPRi perturbation-response prediction, documented in [Cyta Research](#cyta-research).
+
+## Research & Methods
+
+### Omea
+
+Omea provides molecular-design methods and benchmarks within Molia’s research. It evaluates single-site R-group replacement under shared structural and computational-scoring criteria.
+
+Public native-reconstruction guidance results: 12.00% → 16.50% qualifying attempts on 30 development cases, with 3,000 attempts per configuration. Qualification requires structural checks and improvement in both Vina and GNINA scores.
+
+[Repository](https://github.com/AdvaitaLabs/Omea) · [Guidance method and results](https://github.com/AdvaitaLabs/Omea/blob/main/docs/guidance.md) · [Source-validation record](https://github.com/AdvaitaLabs/Omea/blob/main/docs/guidance_validation.json)
+
+### AegeanBench
+
+Evaluate multi-agent consensus and collaboration through defined tasks and metrics.
+
+[Repository](https://github.com/AdvaitaLabs/Aegeanbench)
+
+### Cyta Research
+
+CRISPRi perturbation-response research: use a target gene, control-cell profiles and reference perturbations to predict differential expression and single-cell expression outputs.
+
+This research track is documented separately from Cyta’s simulation framework.
+
+## Team Research
+
+Our team’s prior research spans [ICML](https://proceedings.mlr.press/v267/wan25c.html), [NSDI](https://www.usenix.org/conference/nsdi26/presentation/wei), [Nature Computational Science](https://www.nature.com/articles/s43588-025-00886-7) and [Nature Nanotechnology](https://www.nature.com/articles/s41565-021-00870-y), with recognition including an [NSDI Outstanding Paper Award](https://www.usenix.org/conference/nsdi26/presentation/wei).
+
+## Repository Map
+
+Published research and upstream components, organized by workflow.
+
+| Workflow | Role | Repositories |
+|:--|:--|:--|
+| **Aegis** — Research & Decisions | Research evaluation | [AegeanBench](https://github.com/AdvaitaLabs/Aegeanbench) |
+| **Targa** — Target Preparation | Upstream models | [alphafold3](https://github.com/AdvaitaLabs/alphafold3) · [boltz](https://github.com/AdvaitaLabs/boltz) · [esm](https://github.com/AdvaitaLabs/esm) |
+| **Molia** — Library Screening | Upstream tools | [Uni-Dock](https://github.com/AdvaitaLabs/Uni-Dock) · [gnina](https://github.com/AdvaitaLabs/gnina) · [Meeko](https://github.com/AdvaitaLabs/Meeko) · [openbabel](https://github.com/AdvaitaLabs/openbabel) |
+| **Molia** — Molecular Design | Methods & benchmarks | [Omea](https://github.com/AdvaitaLabs/Omea) |
+| | Upstream dependencies | [rdkit](https://github.com/AdvaitaLabs/rdkit) · [pytorch](https://github.com/AdvaitaLabs/pytorch) |
+| **Cyta** — Biological Modeling | Upstream scoring components | [gnina](https://github.com/AdvaitaLabs/gnina) · [boltz](https://github.com/AdvaitaLabs/boltz) · [LightGBM](https://github.com/AdvaitaLabs/LightGBM) |
+| | Upstream cell-response models | [state](https://github.com/AdvaitaLabs/state) · [chemCPA](https://github.com/AdvaitaLabs/chemCPA) |
+| **Vitra** — Experimental Validation | Experimental workflow design | [Vitra](#vitra) |
+
+## Sources & Attribution
+
+Upstream models, datasets and software retain their original attribution. Repository documentation identifies Advaita’s implementation and the scope of each release.
+
+## Contact
+
+[Advaita website](https://www.advaita.xyz/) · [hello@advaita.xyz](mailto:hello@advaita.xyz)
